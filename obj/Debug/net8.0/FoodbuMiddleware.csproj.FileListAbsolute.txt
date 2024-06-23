@@ -15,3 +15,4 @@
 /Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.csproj.AssemblyReference.cache
 /Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMi.5E5950B8.Up2Date
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.sourcelink.json
