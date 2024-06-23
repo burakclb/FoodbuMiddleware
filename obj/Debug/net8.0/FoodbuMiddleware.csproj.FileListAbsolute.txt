@@ -1,0 +1,17 @@
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/FoodbuMiddleware
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/FoodbuMiddleware.deps.json
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/FoodbuMiddleware.runtimeconfig.json
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/FoodbuMiddleware.dll
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/FoodbuMiddleware.pdb
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.AssemblyInfoInputs.cache
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.AssemblyInfo.cs
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.csproj.CoreCompileInputs.cache
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.dll
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/refint/FoodbuMiddleware.dll
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.pdb
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.genruntimeconfig.cache
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/ref/FoodbuMiddleware.dll
+/Users/burak/Documents/FoodbuMiddleware/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMiddleware.csproj.AssemblyReference.cache
+/Users/burak/Documents/FoodbuMiddleware/obj/Debug/net8.0/FoodbuMi.5E5950B8.Up2Date
